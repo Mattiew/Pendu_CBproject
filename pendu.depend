@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1575067859 source:c:\users\matthieu\desktop\pendu\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"dico.h"
+
+1575066274 c:\users\matthieu\desktop\pendu\pendu\dico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1575067177 source:c:\users\matthieu\desktop\pendu\pendu\dico.c
+	"dico.h"
+
